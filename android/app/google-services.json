@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "807617071655",
+    "project_id": "education-app-fc4bd",
+    "storage_bucket": "education-app-fc4bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807617071655:android:ab86d81d6966900ef35c02",
+        "android_client_info": {
+          "package_name": "com.example.education_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807617071655-227uore57tga2s74i6n2ju3u7tn1u4mk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.education_app",
+            "certificate_hash": "ed621014d888e33b05f2d0334b626bbb5d4f8809"
+          }
+        },
+        {
+          "client_id": "807617071655-gh23ip67slsdkl92rcu00k1ak5cncv2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5VKCTu1HNdH5cnSOFbOiTPRNdBwHOucY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807617071655-gh23ip67slsdkl92rcu00k1ak5cncv2f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807617071655-bbgst6q80q57fs0so3stdcq9q9fna9fs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cleanArchitecture"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
