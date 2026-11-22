@@ -74,7 +74,7 @@ flutter test
 
 ### 2. Installation & Execution
 ```bash
-git clone https://github.com
+git clone https://github.com/mrkarama/Education-App-using-Clean-Architecture-TDD
 cd Education-App-using-Clean-Architecture-TDD
 flutter pub get
 flutter run
@@ -86,4 +86,3 @@ flutter run
 
 **Abdoul-Rahmane Bande**  
 Mobile & Backend Application Developer | Ouagadougou, Burkina Faso  
-GitHub: [@mrkarama](https://github.com)
